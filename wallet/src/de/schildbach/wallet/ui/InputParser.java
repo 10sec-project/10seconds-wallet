@@ -70,7 +70,7 @@ public abstract class InputParser {
 
         @Override
         public void parse() {
-            if (input.startsWith("BITCOIN:-")) {
+            if (input.startsWith("10SECONDS:-")) {
                 try {
                     final byte[] serializedPaymentRequest = Qr.decodeBinary(input.substring(9));
 
@@ -88,16 +88,16 @@ public abstract class InputParser {
 
                     error(R.string.input_parser_invalid_paymentrequest, x.getMessage());
                 }
-            } else if (input.startsWith("bitcoin:") || input.startsWith("BITCOIN:")) {
+            } else if (input.startsWith("10seconds:") || input.startsWith("10SECONDS:")) {
                 try {
-                    final BitcoinURI bitcoinUri = new BitcoinURI(null, "bitcoin:" + input.substring(8));
+                    final BitcoinURI bitcoinUri = new BitcoinURI(null, "10seconds:" + input.substring(8));
                     final Address address = bitcoinUri.getAddress();
                     if (address != null && !Constants.NETWORK_PARAMETERS.equals(address.getParameters()))
                         throw new BitcoinURIParseException("mismatched network");
 
                     handlePaymentIntent(PaymentIntent.fromBitcoinUri(bitcoinUri));
                 } catch (final BitcoinURIParseException x) {
-                    log.info("got invalid bitcoin uri: '" + input + "'", x);
+                    log.info("got invalid 10seconds uri: '" + input + "'", x);
 
                     error(R.string.input_parser_invalid_bitcoin_uri, input);
                 }

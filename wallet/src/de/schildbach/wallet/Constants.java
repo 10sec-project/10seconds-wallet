@@ -65,7 +65,7 @@ public final class Constants {
     /** Enable switch for fetching and showing of exchange rates */
     public static final boolean ENABLE_EXCHANGE_RATES = true;
     /** Enable switch for sweeping of paper wallets */
-    public static final boolean ENABLE_SWEEP_WALLET = true;
+    public static final boolean ENABLE_SWEEP_WALLET = false;
     /** Enable switch for browsing to block explorers */
     public static final boolean ENABLE_BROWSE = true;
 
@@ -86,7 +86,7 @@ public final class Constants {
         public static final String WALLET_KEY_BACKUP_PROTOBUF = "key-backup-protobuf" + FILENAME_NETWORK_SUFFIX;
 
         /** Filename of the manual wallet backup. */
-        public static final String EXTERNAL_WALLET_BACKUP = "bitcoin-wallet-backup" + FILENAME_NETWORK_SUFFIX;
+        public static final String EXTERNAL_WALLET_BACKUP = "10seconds-wallet-backup" + FILENAME_NETWORK_SUFFIX;
 
         /** Filename of the block store for storing the chain. */
         public static final String BLOCKCHAIN_FILENAME = "blockchain" + FILENAME_NETWORK_SUFFIX;
@@ -108,32 +108,32 @@ public final class Constants {
     }
 
     /** URL to fetch version alerts from. */
-    public static final HttpUrl VERSION_URL = HttpUrl.parse("https://wallet.schildbach.de/version"
+    public static final HttpUrl VERSION_URL = HttpUrl.parse("https://wallet.10seconds.com/version"
             + (NETWORK_PARAMETERS.getId().equals(NetworkParameters.ID_MAINNET) ? "" : "-test"));
     /** URL to fetch dynamic fees from. */
-    public static final HttpUrl DYNAMIC_FEES_URL = HttpUrl.parse("https://wallet.schildbach.de/fees");
+    public static final HttpUrl DYNAMIC_FEES_URL = HttpUrl.parse("https://wallet.10seconds.com/fees");
 
     /** MIME type used for transmitting single transactions. */
-    public static final String MIMETYPE_TRANSACTION = "application/x-btctx";
+    public static final String MIMETYPE_TRANSACTION = "application/x-tsectx";
 
     /** MIME type used for transmitting wallet backups. */
-    public static final String MIMETYPE_WALLET_BACKUP = "application/x-bitcoin-wallet-backup";
+    public static final String MIMETYPE_WALLET_BACKUP = "application/x-10seconds-wallet-backup";
 
     /** Number of confirmations until a transaction is fully confirmed. */
     public static final int MAX_NUM_CONFIRMATIONS = 7;
 
     /** User-agent to use for network access. */
-    public static final String USER_AGENT = "Bitcoin Wallet";
+    public static final String USER_AGENT = "10Seconds Wallet";
 
     /** Default currency to use if all default mechanisms fail. */
     public static final String DEFAULT_EXCHANGE_CURRENCY = "USD";
 
     /** Donation address for tip/donate action. */
     public static final String DONATION_ADDRESS = NETWORK_PARAMETERS.getId().equals(NetworkParameters.ID_MAINNET)
-            ? "bc1qdde452znpy4lpksqt766hskkmpxcw6cp0s4jvk" : null;
+            ? "" : null;
 
     /** Recipient e-mail address for reports. */
-    public static final String REPORT_EMAIL = "bitcoin.wallet.developers@gmail.com";
+    public static final String REPORT_EMAIL = "contact@10seconds.info";
 
     /** Subject line for manually reported issues. */
     public static final String REPORT_SUBJECT_ISSUE = "Reported issue";
@@ -157,8 +157,8 @@ public final class Constants {
 
     public static final BaseEncoding HEX = BaseEncoding.base16().lowerCase();
 
-    public static final String SOURCE_URL = "https://github.com/bitcoin-wallet/bitcoin-wallet";
-    public static final String BINARY_URL = "https://wallet.schildbach.de/";
+    public static final String SOURCE_URL = "https://github.com/10sec-project/10seconds-wallet";
+    public static final String BINARY_URL = "https://wallet.10seconds.com/";
 
     public static final int PEER_DISCOVERY_TIMEOUT_MS = 5 * (int) DateUtils.SECOND_IN_MILLIS;
     public static final int PEER_TIMEOUT_MS = 15 * (int) DateUtils.SECOND_IN_MILLIS;

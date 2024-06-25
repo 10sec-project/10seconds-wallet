@@ -1,6 +1,6 @@
-# BITCOIN WALLET
+# 10SECONDS WALLET
 
-Welcome to _Bitcoin Wallet_, a standalone Bitcoin payment app for your Android device!
+Welcome to _10Seconds Wallet_, a standalone 10Seconds payment app for your Android device!
 
 This project contains several sub-projects:
 
