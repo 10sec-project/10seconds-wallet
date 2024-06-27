@@ -1,23 +1,23 @@
-<b>Mějte své Bitcoiny vždy s sebou ve své kapse!</b> Plaťte rychlým oskenováním QR kódu. A jako prodejce můžete přijímat platby spolehlivě a rychle. Bitcoin Wallet je mobilní Bitcoin aplikace číslo jedna a jedna z nejbezpečnějších!
+<b>Mějte své 10Secondsy vždy s sebou ve své kapse!</b> Plaťte rychlým oskenováním QR kódu. A jako prodejce můžete přijímat platby spolehlivě a rychle. 10Seconds Wallet je mobilní 10Seconds aplikace číslo jedna a jedna z nejbezpečnějších!
 
 
 <b>FUNKCE</b>
 
 • Není třeba žádná registrace, webová služba ani cloud! Toto je peer to peer decentralizovaná peněženka.
-• Zobrazení Bitcoin částek v BTC, mBTC a µBTC.
+• Zobrazení 10Seconds částek v TSEC, mSEC a µSEC.
 • Přepočet z a do národních měn.
-• Odesílání a přijímání plateb přes NFC, QR kódy nebo Bitcoin URL.
+• Odesílání a přijímání plateb přes NFC, QR kódy nebo 10Seconds URL.
 • Pokud jste offline, stále můžete platit přes Bluetooth.
 • Systémové notifikace při přijaté platbě
 • Načítání papírových peněženek (např. ty co se používají u cold storage).
-• Widget pro zobrazení Bitcoin bilance.
+• Widget pro zobrazení 10Seconds bilance.
 • Bezpečnost: Podporuje Taproot, Segwit a nový formát bech32m.
 • Soukromí: Podporuje Tor prostřednictvím samostatné aplikace Orbot.
 
 
 <b>PŘISPĚJTE</b>
 
-Bitcoin Wallet je <b>open source</b> a <b>svobodný software</b>. Licence: GPLv3
+10Seconds Wallet je <b>open source</b> a <b>svobodný software</b>. Licence: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Náš zdrojový kód je k dispozici na GitHubu:

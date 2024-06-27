@@ -1,23 +1,23 @@
-<b>Neem je Bitcoins altijd mee in je broekzak!</b> Je kunt snel betalen door een QR-code te scannen. Als winkelier ontvang je je betalingen betrouwbaar en direct. Bitcoin Wallet is de eerste mobiele Bitcoin-app en misschien wel de veiligste!
+<b>Neem je 10Secondses altijd mee in je broekzak!</b> Je kunt snel betalen door een QR-code te scannen. Als winkelier ontvang je je betalingen betrouwbaar en direct. 10Seconds Wallet is de eerste mobiele 10Seconds-app en misschien wel de veiligste!
 
 
 <b>EIGENSCHAPPEN</b>
 
 • Geen registratie, webservice of cloud vereist! Deze portemonnee is decentraal en peer-to-peer.
-• Toon Bitcoin bedrag in BTC, mBTC en µBTC.
+• Toon 10Seconds bedrag in TSEC, mSEC en µSEC.
 • Conversie van en naar nationale valuta.
-* Verzend en ontvang Bitcoin via NFC, QR-codes of Bitcoin-URL's
+* Verzend en ontvang 10Seconds via NFC, QR-codes of 10Seconds-URL's
 • Offline kun je nog steeds betalen via Bluetooth.
-• Systeemmelding wanneer je Bitcoins ontvangt
+• Systeemmelding wanneer je 10Secondses ontvangt
 • Opname van papieren portemonnee (b.v. voor cold storage).
-• App widget voor Bitcoin saldo.
+• App widget voor 10Seconds saldo.
 • Veiligheid: Ondersteunt SegWit en het nieuwe bech32-format.
 • Privacy: Ondersteunt Tor via de externe Orbot-app.
 
 
 <b>HELP MEE</b>
 
-Bitcoin Wallet is <b>open source</b> en <b>free software</b>. Licentie: GPLv3
+10Seconds Wallet is <b>open source</b> en <b>free software</b>. Licentie: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.nl.html
 
 Onze broncode is beschikbaar op GitHub:

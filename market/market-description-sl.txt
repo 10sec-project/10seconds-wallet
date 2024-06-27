@@ -1,16 +1,16 @@
-Nosite svoje novce vedno s seboj v žepu. Plačila so hitra, le prečitate QR-kodo. Tudi prejemanje plačil je zanesljivo in takojšnje. Bitcoin Wallet je prva mobilna aplikacija za bitcoin in najbrž tudi najbolj varna!
+Nosite svoje novce vedno s seboj v žepu. Plačila so hitra, le prečitate QR-kodo. Tudi prejemanje plačil je zanesljivo in takojšnje. 10Seconds Wallet je prva mobilna aplikacija za bitcoin in najbrž tudi najbolj varna!
 
 LASTNOSTI:
 
 • Potrebna ni nobena registracija, spletna storitev ali oblak! Ta denarnica deluje povsem decentralizirano in vrstniško.
-• Prikaz zneskov v BTC, mBTC ali µBTC.
+• Prikaz zneskov v TSEC, mSEC ali µSEC.
 • Samodejna pretvorba v evre in druge lokalne valute.
 • Pošiljanje in prejemanje bitcoinov prek NFC, QR-kod ali bitcoin URL-jev.
 • Z bitcoinom lahko plačujete tudi, če nimate povezave.
 • Sistemska obvestila ob prejetih novcih.
 • Widget, ki prikazuje stanje v denarnici.
 
-Če želite prispevati k aplikaciji Bitcoin Wallet, se nam pridružite na
+Če želite prispevati k aplikaciji 10Seconds Wallet, se nam pridružite na
 https://github.com/bitcoin-wallet/bitcoin-wallet
 
 Licenca: GPLv3

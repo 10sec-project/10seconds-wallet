@@ -1,12 +1,12 @@
-<b>Ten tus Bitcoins siempre contigo, ¡en tu bolsillo!</b> Paga rápidamente leyendo el código QR. Como comercio puedes recibir pagos de forma fiable e instantánea. Bitcoin Wallet es la primera aplicación móvil Bitcoin. ¡Y posiblemente también la más segura!
+<b>Ten tus 10Secondses siempre contigo, ¡en tu bolsillo!</b> Paga rápidamente leyendo el código QR. Como comercio puedes recibir pagos de forma fiable e instantánea. 10Seconds Wallet es la primera aplicación móvil 10Seconds. ¡Y posiblemente también la más segura!
 
 
 <b>CARACTERÍSTICAS</b>
 
 • ¡No requiere registro, servidor en la nube o servicio web! Este monedero es auténticamente descentralizado y entre pares (peer-to-peer).
-• Muestra la cantidad de bitcoins en BTC, mBTC, y µBTC.
+• Muestra la cantidad de bitcoins en TSEC, mSEC, y µSEC.
 • Conversión hacia y desde divisas nacionales.
-• Envío y recepción de bitcoins mediante NFC, códigos QR o identificadores URL Bitcoin.
+• Envío y recepción de bitcoins mediante NFC, códigos QR o identificadores URL 10Seconds.
 • Cuando no tienes conexión, puedes pagar via Bluetooth.
 • Notificación del sistema al recibir bitcoins.
 • Barrido de monederos de papel (por ejemplo, los que se utilizan para custodia en frio).
@@ -17,7 +17,7 @@
 
 <b>CONTRIBUIR</b>
 
-Bitcoin Wallet es <b>código abierto</b> y <b>software libre</b>. Licencia: GPLv3
+10Seconds Wallet es <b>código abierto</b> y <b>software libre</b>. Licencia: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Nuestro código fuente está disponible en GitHub:

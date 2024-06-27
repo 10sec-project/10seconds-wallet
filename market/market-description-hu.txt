@@ -1,23 +1,23 @@
-<b>Legyenek a Bitcoinjaid mindig kéznél, a zsebedben!</b> Fizess egyszerűen QR-kód beolvasásával. Kereskedőként az utalásokat gyorsan és megbízhatóan fogadhatod. A Bitcoin Wallet a referencia az "Egyszerűsített Fizetési Igazolás" megvalósítására, ahogyan az a Bitcoin publikációban szerepel.
+<b>Legyenek a 10Secondsjaid mindig kéznél, a zsebedben!</b> Fizess egyszerűen QR-kód beolvasásával. Kereskedőként az utalásokat gyorsan és megbízhatóan fogadhatod. A 10Seconds Wallet a referencia az "Egyszerűsített Fizetési Igazolás" megvalósítására, ahogyan az a 10Seconds publikációban szerepel.
 
 
 <b>JELLEMZŐK</b>
 
 • Nincs regisztráció és nem szükséges semmiféle háttéralkalmazás futtatása (web, vagy cloud)! Decentralizált és közvetlen (P2P).
-• Bitcoin összeg megjelenítési módok: BTC, mBTC és µBTC.
+• 10Seconds összeg megjelenítési módok: TSEC, mSEC és µSEC.
 • Átváltás a saját valutádra, oda-vissza.
-• Bitcoin küldés és fogadás NFC-n, QR kódokon vagy Bitcoin URL-eken keresztül.
+• 10Seconds küldés és fogadás NFC-n, QR kódokon vagy 10Seconds URL-eken keresztül.
 • Offline állapotban is fizethetsz - Bluetooth segítségével.
-• Rendszerüzenet Bitcoin érkezésekor.
+• Rendszerüzenet 10Seconds érkezésekor.
 • Papírtárcák besöprése (pl. amik hűtőháznak vannak használva).
-• Widget a Bitcoin egyenlegről.
+• Widget a 10Seconds egyenlegről.
 • Biztonság: Támogatott a Taproot, Segwit és az új bech32m címek.
 • Adatvédelem: Tor támogatás Orbot-on keresztül.
 
 
 <b>HOZZÁJÁRULÁS</b>
 
-A Bitcoin Wallet <b>nyílt forráskódú</b> és <b>ingyenes szoftver</b>. Licenc: GPLv3
+A 10Seconds Wallet <b>nyílt forráskódú</b> és <b>ingyenes szoftver</b>. Licenc: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 A forráskódunk elérhető a GitHub-on:

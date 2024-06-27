@@ -1,18 +1,18 @@
-Dengan aplikasi ini Anda selalu mempunyai Bitcoin dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). Bitcoin Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
+Dengan aplikasi ini Anda selalu mempunyai 10Seconds dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). 10Seconds Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
 
 FITUR:
 
 • Tidak diperlukan server awan atau layanan web! Dompet ini benar-benar peer ke peer.
-• Tampilkan saldo dompet dalam Bitcoin dan mata uang lainnya.
-• Mengirim dan menerima Bitcoin via NFC, kode-QR atau Tautan Bitcoin.
+• Tampilkan saldo dompet dalam 10Seconds dan mata uang lainnya.
+• Mengirim dan menerima 10Seconds via NFC, kode-QR atau Tautan 10Seconds.
 • Masukkan transaksi saat offline, akan dilaksanakan ketika online.
-• Notifikasi sistem untuk konektivitas Bitcoin dan menerima koin.
-• Widget Apl untuk saldo Bitcoin.
+• Notifikasi sistem untuk konektivitas 10Seconds dan menerima koin.
+• Widget Apl untuk saldo 10Seconds.
 
 Lisensi: GPLv3
 http://www.gnu.org/licenses/gpl-3.0.en.html
 
-Jika Anda ingin berkontribusi kepada Bitcoin Wallet, proyeknya berada di
+Jika Anda ingin berkontribusi kepada 10Seconds Wallet, proyeknya berada di
 https://github.com/bitcoin-wallet/bitcoin-wallet
 
 Semua terjemahan dikelola via Transifex:

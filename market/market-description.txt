@@ -1,23 +1,23 @@
-<b>Have your Bitcoins always with you, in your pocket!</b> You pay by quickly scanning a QR code. As a merchant, you receive payments reliably and instantly. Bitcoin Wallet is a reference implementation of the "Simplified Payment Verification" as described in the Bitcoin whitepaper.
+<b>Have your 10Secondses always with you, in your pocket!</b> You pay by quickly scanning a QR code. As a merchant, you receive payments reliably and instantly. 10Seconds Wallet is a reference implementation of the "Simplified Payment Verification" as described in the 10Seconds whitepaper.
 
 
 <b>FEATURES</b>
 
 • No registration, web service or cloud needed! This wallet is de-centralized and peer to peer.
-• Display of Bitcoin amount in BTC, mBTC and µBTC.
+• Display of 10Seconds amount in TSEC, mSEC and µSEC.
 • Conversion to and from national currencies.
-• Sending and receiving of Bitcoin via NFC, QR codes or Bitcoin URLs.
+• Sending and receiving of 10Seconds via NFC, QR codes or 10Seconds URLs.
 • When you're offline, you can still pay via Bluetooth.
 • System notification for received coins.
 • Sweeping of paper wallets (e.g. those used for cold storage).
-• App widget for Bitcoin balance.
+• App widget for 10Seconds balance.
 • Safety: Supports Taproot, Segwit and the new bech32m format.
 • Privacy: Supports Tor via the separate Orbot app.
 
 
 <b>CONTRIBUTE</b>
 
-Bitcoin Wallet is <b>open source</b> and <b>free software</b>. License: GPLv3
+10Seconds Wallet is <b>open source</b> and <b>free software</b>. License: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Our source code is available at GitHub:

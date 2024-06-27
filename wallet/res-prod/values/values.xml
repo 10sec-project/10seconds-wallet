@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">10seconds Wallet</string>
-    <string name="app_name_short">10Seconds</string>
+    <string name="app_name_short">10seconds</string>
 
     <string-array name="preferences_block_explorer_values">
         <item>https://10seconds.info</item>

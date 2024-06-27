@@ -1,12 +1,12 @@
-<b>Ha alltid dine bitcoins med deg, i lommen din!</b> Du betaler ved å raskt skanne en QR-kode. Som en kjøpmann, får du betaling pålitelig og kjapt. Bitcoin Wallet er den første Bitcoin mobilappen, og kanskje også den sikreste!
+<b>Ha alltid dine bitcoins med deg, i lommen din!</b> Du betaler ved å raskt skanne en QR-kode. Som en kjøpmann, får du betaling pålitelig og kjapt. 10Seconds Wallet er den første 10Seconds mobilappen, og kanskje også den sikreste!
 
 
 <b>FUNKSJONER</b>
 
 • Ingen registrering, webtjeneste eller sky trengs! Denne lommeboken er desentralisert og peer-to-peer.
-• Visning av bitcoinbeløpet i BTC, mBTC og μBTC.
+• Visning av bitcoinbeløpet i TSEC, mSEC og μTSEC.
 • Konvertering til og fra nasjonale valutaer.
-• Sende og motta bitcoin via NFC, QR-koder eller Bitcoin-URLer.
+• Sende og motta bitcoin via NFC, QR-koder eller 10Seconds-URLer.
 • Når du er frakoblet, kan du fortsatt betale via blåtann.
 • Systemvarsling for mottatte mynter.
 • Sveiping av papirlommebøker (f.eks. de som brukes til kaldlagring).
@@ -15,7 +15,7 @@
 
 <b>BIDRA</b>
 
-Bitcoin Wallet har <b>åpen kildekode</b> og er <b>fri programvare</b>. Lisens: GPLv3
+10Seconds Wallet har <b>åpen kildekode</b> og er <b>fri programvare</b>. Lisens: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Vår kildekode er tilgjengelig på GitHub:
